@@ -35,6 +35,14 @@
 
 ### ⭐ Featured projects
 
+#### ⚡ [Power outages in Ukraine: what 3 weeks of official schedules show](https://github.com/mykolatsivka/ukraine-power-outages-analysis)
+An end-to-end analysis of **1,643 snapshots** of official outage schedules from 6 regional grid operators (Oct 25 – Nov 14, 2026).
+- Built the dataset from the git history of my own data pipeline: versioning, deduplication, final schedules, Kyiv time
+- Answered 5 questions with SQL (CTEs, JOINs, `CASE WHEN`, `HAVING`, window functions): regional ranking, weekly trend, time-of-day profile, schedule stability, fairness between queues
+- **Findings:** Kyiv city averaged 13.4 h a day without power per queue (about 3× Odesa); outages peak at 14:00–17:00; in Mykolaiv the schedule changed on 92% of days, almost always on the day itself
+
+`SQL` `Python` `pandas` `matplotlib` `Jupyter` `Tableau`
+
 #### 📊 [DataLens Desktop](https://github.com/mykolatsivka/semester-project-python)
 A desktop app for exploratory data analysis of any CSV file.
 - Data quality report: missing values, duplicates and an overall quality score
