@@ -9,7 +9,7 @@
 ### 🎓 Background
 
 - **Applied Computer Science**, Technical University of Košice (2025–2030, in progress)
-- **Mate Academy**: studying alongside university
+- **Mate Academy, Data Analytics course** (2026, in progress): mentor-reviewed SQL practice in Google BigQuery on realistic e-commerce datasets (web sessions, orders, payments, email campaigns, ad spend)
 - Scored **200/200** on Ukraine's national exams in Mathematics and English
 - Spent ~1.5 years on front-end development, then deliberately switched to data analytics
 - **Languages:** Ukrainian (native), English and Slovak (upper-intermediate)
@@ -18,10 +18,18 @@
 
 ### 🛠 Skills
 
-**Data analysis:** SQL, Python (pandas, NumPy), descriptive statistics, correlations, group comparisons, data quality checks
-**Visualization:** Tableau, matplotlib, Google Sheets
+**SQL (Google BigQuery), my main focus:** JOINs (incl. through bridge tables and time-interval conditions), GROUP BY / HAVING, CASE WHEN, UNION ALL, subqueries, window functions (RANK, DENSE_RANK, AVG OVER PARTITION BY), date/time and string functions
+**Python:** pandas, NumPy, matplotlib; core Python
+**Visualization:** Tableau (calculated fields, dashboards), matplotlib, Google Sheets
+**Data foundations:** relational databases, ER diagrams, normalization (1NF–3NF), data quality checks, descriptive statistics
 **Data pipelines:** web scraping, APIs, ETL, scheduled jobs (GitHub Actions)
-**Tools:** Git & GitHub, Google Workspace, AI tools for faster analysis and automation
+**Tools:** Google BigQuery, Git & GitHub, Google Workspace, LeetCode (SQL), AI tools for analysis and automation
+
+#### Examples of SQL tasks I've solved
+- Combined daily ad spend and order revenue with `UNION ALL`, grouped by year and month, and found why `SUM(DISTINCT)` after a JOIN gives wrong totals
+- Calculated email unsubscribe rates by country through bridge tables, and segmented countries into revenue tiers with `CASE WHEN` over aggregates
+- Measured session duration from event timestamps, plus revenue per session for registered vs. guest users
+- Ranked employees by salary within departments and compared them to the department average without collapsing rows (window functions)
 
 ---
 
