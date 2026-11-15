@@ -1,17 +1,27 @@
 ### Hi, I'm Mykola 👋
 
-**Aspiring Data Analyst from Ukraine.** I like taking messy real-world data, cleaning it, finding what matters, and turning it into something people can use.
+**Aspiring Data Analyst from Ukraine 🇺🇦, studying in Slovakia 🇸🇰.** I like taking messy real-world data, cleaning it, finding what matters, and turning it into something people can use.
 
 🔎 **Looking for:** Junior Data Analyst / Data Analyst Intern roles
 
 ---
 
+### 🎓 Background
+
+- **Applied Computer Science**, Technical University of Košice (2025–2030, in progress)
+- **Mate Academy**: studying alongside university
+- Scored **200/200** on Ukraine's national exams in Mathematics and English
+- Spent ~1.5 years on front-end development, then deliberately switched to data analytics
+- **Languages:** Ukrainian (native), English and Slovak (upper-intermediate)
+
+---
+
 ### 🛠 Skills
 
-**Data analysis:** Python (pandas, NumPy), SQL (PostgreSQL, SQLite), descriptive statistics, correlations, group comparisons, data quality checks
-**Visualization:** matplotlib, charts for non-technical users
+**Data analysis:** SQL, Python (pandas, NumPy), descriptive statistics, correlations, group comparisons, data quality checks
+**Visualization:** Tableau, matplotlib, Google Sheets
 **Data pipelines:** web scraping, APIs, ETL, scheduled jobs (GitHub Actions)
-**Tools:** Git & GitHub, VS Code, Excel
+**Tools:** Git & GitHub, Google Workspace, AI tools for faster analysis and automation
 
 ---
 
