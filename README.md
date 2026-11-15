@@ -4,6 +4,8 @@
 
 🔎 **Looking for:** Junior Data Analyst / Data Analyst Intern roles
 
+📫 **Contact:** [mykolatsivka8@gmail.com](mailto:mykolatsivka8@gmail.com) · Telegram [@tsivka.m](https://t.me/tsivka.m)
+
 ---
 
 ### 🎓 Background
